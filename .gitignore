@@ -3,5 +3,5 @@
 .settings/
 target/
 .DS_Store
-/.idea/
-/casadocodigo.iml
+.idea/
+casadocodigo.iml
